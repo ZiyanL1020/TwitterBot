@@ -17,3 +17,7 @@ A Twitter bot build with NodeJS, Twitter API and Forismatic API
   - appConfig contains infomation about your Twitter application
   - parameters contain information to fetch tweets and like
   - timing contains information to define frequency at which above behaviours will take place
+
+
+![screenshot](ex1.PNG)
+![screenshot](ex2.PNG)
