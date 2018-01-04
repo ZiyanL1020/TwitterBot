@@ -1,0 +1,16 @@
+{
+  "name": "twitterbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ziyan Liu",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^1.14.7",
+    "request": "^2.83.0",
+    "twit": "^2.2.9"
+  }
+}
