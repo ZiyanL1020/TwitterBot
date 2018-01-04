@@ -18,6 +18,6 @@ A Twitter bot build with NodeJS, Twitter API and Forismatic API
   - parameters contain information to fetch tweets and like
   - timing contains information to define frequency at which above behaviours will take place
 
-
+## Screenshots:
 ![screenshot](https://github.com/ZiyanL1020/TwitterBot/blob/master/asserts/ex1.PNG?raw=true)
 ![screenshot](https://github.com/ZiyanL1020/TwitterBot/blob/master/asserts/ex2.PNG?raw=true)
