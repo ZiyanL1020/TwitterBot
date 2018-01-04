@@ -19,5 +19,5 @@ A Twitter bot build with NodeJS, Twitter API and Forismatic API
   - timing contains information to define frequency at which above behaviours will take place
 
 
-![screenshot](ex1.PNG)
-![screenshot](ex2.PNG)
+![screenshot](TwitterBot/asserts/ex1.PNG)
+![screenshot](TwitterBot/asserts/ex2.PNG)
